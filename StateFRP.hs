@@ -4,7 +4,7 @@ import "GLFW-b" Graphics.UI.GLFW as GLFW
 
 import Graphics.Gloss
 
-import Graphics.Gloss.Rendering 
+import Graphics.Gloss.Rendering
 
 import System.Exit ( exitSuccess )
 
